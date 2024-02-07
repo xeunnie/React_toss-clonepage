@@ -1,0 +1,9 @@
+{
+  "name": "toss_clonepage",
+  "version": "1.0.0",
+  "description": "toss clone page",
+  "main": "index.js",
+  "repository": "https://github.com/xeunnie/toss_clonepage.git",
+  "author": "chloe choi",
+  "license": "MIT"
+}
