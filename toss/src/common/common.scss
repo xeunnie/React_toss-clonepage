@@ -1,0 +1,29 @@
+$font-family-sans-serif:
+  // Safari for OS X and iOS (San Francisco)
+  -apple-system,
+  // Chrome < 56 for OS X (San Francisco)
+  BlinkMacSystemFont,
+  // Windows
+  "Segoe UI",
+  // Android
+  "Roboto",
+  // Basic web fallback
+  "Helvetica Neue", Arial, sans-serif,
+  // Emoji fonts
+  "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
+
+.Container{
+    max-width: 1140px;
+    width: 100%;
+    height: 100%;
+    margin: auto;
+}
+
+a, button, img {
+    cursor: pointer;
+    text-decoration: none;
+}
+
+body{
+    font-family: Helvetica,Arial,sans-serif;
+}

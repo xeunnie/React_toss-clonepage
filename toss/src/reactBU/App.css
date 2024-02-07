@@ -2,17 +2,6 @@
   text-align: center;
 }
 
-.mainBg{
-  background-color: #000;
-  height: 100vh;
-  width: 100%;
-  z-index: 1;
-  position: relative;
-  img{
-    border-radius: 40px;
-  }
-}
-
 .App-logo {
   height: 40vmin;
   pointer-events: none;
