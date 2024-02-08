@@ -1,19 +1,22 @@
 {
   "files": {
-    "main.css": "/toss_clonepage/static/css/main.6bb21292.css",
-    "main.js": "/toss_clonepage/static/js/main.c73ad84a.js",
+    "main.css": "/toss_clonepage/static/css/main.a5edae46.css",
+    "main.js": "/toss_clonepage/static/js/main.7034da68.js",
     "static/js/592.4113a52c.chunk.js": "/toss_clonepage/static/js/592.4113a52c.chunk.js",
     "static/media/mainIntoBg.png": "/toss_clonepage/static/media/mainIntoBg.1ab585f397c800ca88d7.png",
+    "static/media/main_story2_card1.png": "/toss_clonepage/static/media/main_story2_card1.e460e9bc42fe072a5ffd.png",
+    "static/media/main_story1_card4.png": "/toss_clonepage/static/media/main_story1_card4.3849ab6eb9a1a64e551e.png",
     "static/media/main_story1_card3.png": "/toss_clonepage/static/media/main_story1_card3.d144d1491c9659d53770.png",
     "static/media/main_story1_card1.png": "/toss_clonepage/static/media/main_story1_card1.23e075fcd2ed6bdc761f.png",
     "static/media/logoMonoWhite.png": "/toss_clonepage/static/media/logoMonoWhite.e7d910debf95094ca311.png",
     "index.html": "/toss_clonepage/index.html",
-    "main.6bb21292.css.map": "/toss_clonepage/static/css/main.6bb21292.css.map",
-    "main.c73ad84a.js.map": "/toss_clonepage/static/js/main.c73ad84a.js.map",
+    "static/media/main_story2_card2.svg": "/toss_clonepage/static/media/main_story2_card2.ddfe8996474cc75d2f8b700deb232984.svg",
+    "main.a5edae46.css.map": "/toss_clonepage/static/css/main.a5edae46.css.map",
+    "main.7034da68.js.map": "/toss_clonepage/static/js/main.7034da68.js.map",
     "592.4113a52c.chunk.js.map": "/toss_clonepage/static/js/592.4113a52c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6bb21292.css",
-    "static/js/main.c73ad84a.js"
+    "static/css/main.a5edae46.css",
+    "static/js/main.7034da68.js"
   ]
 }
