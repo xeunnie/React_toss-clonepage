@@ -1,6 +1,6 @@
 import './headerNavBar.scss'
 import '../common/common.scss'
-import logoMono from '../img/logoMonoWhite.png'
+import logoMono from '../img/logo/logoMonoWhite.png'
 
 function HeaderNavBar() {
     return(
