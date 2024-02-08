@@ -21,10 +21,16 @@ body{
     font-family: Helvetica,Arial,sans-serif;
 }
 
-h3,p{
+h3,h4,p{
     margin: 0;
 }
 
 h3{
     font-size: 36px;
+}
+
+ol, ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
 }

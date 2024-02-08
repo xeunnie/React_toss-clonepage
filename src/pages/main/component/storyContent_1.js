@@ -27,6 +27,20 @@ function StoryContent_1() {
                     <h3>대한민국 성인 2.5명 중<br/>1명은 토스로 신용점수 확인</h3>
                     <p>총 16,730,177명이 토스로 신용점수를 확인했어요.</p>
                 </div>
+                <div className='cards card4'>
+                    <h3>병원비 돌려받기 <br/>토스로 1분이면 가능해요</h3>
+                    <button>어떻게 돌려받나요?</button>
+                </div>
+                <div className='cards card5'>
+                    <h3>다음 중, 주민센터 갈 필요없이 토스로 발급 가능한 서류가 아닌 것은?</h3>
+                    <ul>
+                        <li>① 주민등록등본</li>
+                        <li>② 소득금액증명</li>
+                        <li>③ 호그와트 입학허가서</li>
+                        <li>④ 건강보험자격득실확인서</li>
+                    </ul>
+                    <button>정답 보기</button>
+                </div>
             </div>
         </div>
     )
