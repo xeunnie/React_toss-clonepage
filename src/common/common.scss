@@ -1,16 +1,9 @@
-$font-family-sans-serif:
-  // Safari for OS X and iOS (San Francisco)
-  -apple-system,
-  // Chrome < 56 for OS X (San Francisco)
-  BlinkMacSystemFont,
-  // Windows
-  "Segoe UI",
-  // Android
-  "Roboto",
-  // Basic web fallback
-  "Helvetica Neue", Arial, sans-serif,
-  // Emoji fonts
-  "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
+@import url('https://static.toss.im/tps/main.css');
+@import url('https://static.toss.im/tps/others.css');
+
+* {
+  font-family: 'Toss Product Sans';
+}
 
 .Container{
     max-width: 1140px;
@@ -26,4 +19,12 @@ a, button, img {
 
 body{
     font-family: Helvetica,Arial,sans-serif;
+}
+
+h3,p{
+    margin: 0;
+}
+
+h3{
+    font-size: 36px;
 }
