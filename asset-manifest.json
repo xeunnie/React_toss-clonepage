@@ -1,17 +1,19 @@
 {
   "files": {
-    "main.css": "/toss_clonepage/static/css/main.06651b40.css",
-    "main.js": "/toss_clonepage/static/js/main.8e7d9446.js",
-    "static/js/592.4113a52c.chunk.js": "/toss_clonepage/static/js/592.4113a52c.chunk.js",
-    "static/media/logoMonoWhite.png": "/toss_clonepage/static/media/logoMonoWhite.e7d910debf95094ca311.png",
-    "static/media/logo.svg": "/toss_clonepage/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/toss_clonepage/index.html",
-    "main.06651b40.css.map": "/toss_clonepage/static/css/main.06651b40.css.map",
-    "main.8e7d9446.js.map": "/toss_clonepage/static/js/main.8e7d9446.js.map",
-    "592.4113a52c.chunk.js.map": "/toss_clonepage/static/js/592.4113a52c.chunk.js.map"
+    "main.css": "/xeunnie/toss_clonepage.git/static/css/main.50a0c7f7.css",
+    "main.js": "/xeunnie/toss_clonepage.git/static/js/main.253ef5af.js",
+    "static/js/592.4113a52c.chunk.js": "/xeunnie/toss_clonepage.git/static/js/592.4113a52c.chunk.js",
+    "static/media/mainIntoBg.png": "/xeunnie/toss_clonepage.git/static/media/mainIntoBg.1ab585f397c800ca88d7.png",
+    "static/media/main_story1_card3.png": "/xeunnie/toss_clonepage.git/static/media/main_story1_card3.d144d1491c9659d53770.png",
+    "static/media/main_story1_card1.png": "/xeunnie/toss_clonepage.git/static/media/main_story1_card1.23e075fcd2ed6bdc761f.png",
+    "static/media/logoMonoWhite.png": "/xeunnie/toss_clonepage.git/static/media/logoMonoWhite.e7d910debf95094ca311.png",
+    "index.html": "/xeunnie/toss_clonepage.git/index.html",
+    "main.50a0c7f7.css.map": "/xeunnie/toss_clonepage.git/static/css/main.50a0c7f7.css.map",
+    "main.253ef5af.js.map": "/xeunnie/toss_clonepage.git/static/js/main.253ef5af.js.map",
+    "592.4113a52c.chunk.js.map": "/xeunnie/toss_clonepage.git/static/js/592.4113a52c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.06651b40.css",
-    "static/js/main.8e7d9446.js"
+    "static/css/main.50a0c7f7.css",
+    "static/js/main.253ef5af.js"
   ]
 }
