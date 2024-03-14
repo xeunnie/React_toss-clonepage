@@ -1,11 +1,8 @@
 import MainEntry from './pages/main/entry';
+import React from "react";
 
-function App() {
+export default function App() {
   return (
-    <div className="App">
       <MainEntry/>
-    </div>
   );
 }
-
-export default App;
